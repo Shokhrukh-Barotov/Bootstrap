@@ -63,3 +63,10 @@
 .pricing__card {
     background-color: #f0f5f9;
 }
+
+/* FAQ */
+
+.faq__container {
+    background-color: #f0f5f9;
+    padding: 100px 50px;
+}
