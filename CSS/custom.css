@@ -1,0 +1,15 @@
+/*Navigation menu*/
+
+.navbar-brand{
+    font-family: "Montserrat";
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .navbar-link.active,
+.navbar-light .navbar-nav .show.navbar-link,
+.navbar-light .navbar-nav .navbar-link.{
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 14;
+    padding: 10px 20px;
+}
