@@ -50,3 +50,10 @@
 .features {
     background-color: #f0f5f9;
 }
+
+/*Review*/
+
+.review__container {
+    background-color: #f0f5f9;
+    padding: 100px 50px;
+}
