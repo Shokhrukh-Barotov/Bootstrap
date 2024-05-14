@@ -4,6 +4,69 @@
     }
 }
 
+/* Text colors */
+
+.text-dark-custom {
+    color: #3a3a47 !important;
+}
+
+.text-grey-custom {
+    color: #5c5c5c !important;
+}
+
+.text-light-grey-custom {
+    color: #818198 !important;
+}
+
+.text-dark-blue-custom {
+    color: #383b61 !important ;
+}
+
+.text-blue-custom {
+    color: #3498db !important
+}
+
+.text-green-custom {
+    color: #21bf73 !important;
+}
+
+/* Background colors */
+
+.bg-primary-custom {
+    background-color: #f0f5f9 !important;
+}
+
+/* Forms and buttons */
+
+.btn {
+    padding: 0 20px;
+    line-height: 38px;
+}
+
+.btn-blue-custom {
+    border: 2px solid #3498db;
+}
+
+.btn-blue-custom:hover{
+    background-color: #3498db;
+    color: #ffffff;
+}
+
+.btn-success-custom {
+    border: 2px solid #21bf73;
+    background-color: #21bf73;
+    color: #ffffff;
+}
+
+.btn-success-custom:hover{
+    color: #ffffff;
+}
+
+/*Font*/
+
+h1, h2, h3, h4, h5, h6, p{
+    font-family: "Montserrat";
+}
 /*Navigation menu*/
 
 .navbar-brand {
@@ -23,7 +86,6 @@
 /*Home*/
 
 .home {
-    background-color: #f0f5f9;
     padding: 150px 0 100px 0;
 }
 
